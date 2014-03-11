@@ -16,5 +16,6 @@ spatial:
   description: []
   output:
   - {native: solid}
+  location: http://mined.gatech.edu/images/assets/nutshell/macadamia.mat
 dict: natural-ct
 ---
