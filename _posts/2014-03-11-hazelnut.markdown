@@ -16,5 +16,6 @@ spatial:
   description: []
   output:
   - {native: solid}
+  location: http://mined.gatech.edu/images/assets/nutshell/hazelnut.mat
 dict: natural-ct
 ---
