@@ -5,7 +5,7 @@ description: []
 aggregate:
 - name: pecan
   native: pecan
-  description: <a href="http://www.flickr.com/photos/tonyfast/sets/72157642203874925/">Some visualizations of the Pecan CT volume.</a>
+  description: 
   output:
   - {native: solid_fraction, value: 0.909054288}
   - {native: pore_fraction, value: 0.09094571200000001}
@@ -14,7 +14,7 @@ aggregate:
 spatial:
 - name: pecan
   native: pecan
-  description: []
+  description: <a href="http://www.flickr.com/photos/tonyfast/sets/72157642203874925/">Some visualizations of the Pecan CT volume.</a>
   output:
   - {native: solid}
   viz:
