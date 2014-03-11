@@ -18,7 +18,7 @@ spatial:
   - {native: solid}
   location: http://mined.gatech.edu/images/assets/nutshell/macadamia.mat
   viz:
-  - url: http://www.flickr.com/photos/tonyfast/13084284213/in/set-72157642203778925
+  - url: http://farm8.staticflickr.com/7387/13084284213_0644030042_z_d.jpg
     title:
 dict: natural-ct
 ---
