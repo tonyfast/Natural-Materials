@@ -16,4 +16,5 @@ spatial:
   description: []
   output:
   - {native: solid}
+dict: natural-ct
 ---
