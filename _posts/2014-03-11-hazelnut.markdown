@@ -13,9 +13,11 @@ aggregate:
 spatial:
 - name: hazelnut
   native: hazelnut
-  description: []
+  description: <a href="http://www.flickr.com/photos/tonyfast/sets/72157642205632333/">Some visualizations of the CT can be found on flickr.</a>
   output:
   - {native: solid}
+  viz:
+  - url: http://farm8.staticflickr.com/7325/13083822583_f386a7b389_z_d.jpg
   location: http://mined.gatech.edu/images/assets/nutshell/hazelnut.mat
 dict: natural-ct
 ---
