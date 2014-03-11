@@ -20,6 +20,7 @@ This command will down a setup code from [Tony Fast's GitHub](www.github.com/ton
   3. Once you have created your repository, copy the HTTP/SSH link into your clipboard for use in Matlab.  Or simply remember the name to your *.git repository
 
 4. Run GitHub setup
+
 Execute the commands 
 ``
 reponame = 'https://github.com/youname/repo.git'; % is the link you copied in the previous step
