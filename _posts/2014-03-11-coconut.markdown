@@ -1,0 +1,19 @@
+---
+layout: dataset
+title: coconut
+description: []
+aggregate:
+- name: coconut
+  native: coconut
+  description: []
+  output:
+  - {native: solid_fraction, value: 0.94611296}
+  - {native: pore_fraction, value: 0.05388704}
+  - {native: xtal_fraction, value: 0.0}
+spatial:
+- name: coconut
+  native: coconut
+  description: []
+  output:
+  - {native: solid}
+---
