@@ -1,10 +1,16 @@
-# Getting Started:
-## Change ``name`` and ``baseurl`` in _config.yml 
+## Getting Started:
++ Start a New Project Folder
+Create a new folder to host your Matin project at.  Make this folder your current working
+directory in Matlab.
 
-# Remember
-## Posts must obey the right structure
++ Access the setup code called GitHubSetUp.m
 
-# Search occurs over bottom-up values
+In the Matlab command line, type in the command 
+`urlwrite('https://raw.github.com/tonyfast/matin/setup/GitHubSetUp.m','GitHubSetUp.m');`
 
-# Collaboration Tools
-http://mashable.com/2014/03/06/file-sharing-tools/?utm_cid=mash-com-li-main-link
+This command will down a setup code from Tony Fast's GitHub page.  The command will
+  + Fork the current working version of Matin
+  + Initialize both the master and gh-pages branches of your new working directory
+  + Connect Matin as a upstream branch that will be constantly be updated to improve you webpages.
+
++ Run GitHub setup
