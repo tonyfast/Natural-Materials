@@ -1,0 +1,19 @@
+---
+layout: dataset
+title: ivory
+description: []
+aggregate:
+- name: ivory
+  native: ivory
+  description: []
+  output:
+  - {native: solid_fraction, value: 0.94858976}
+  - {native: pore_fraction, value: 0.05141024000000005}
+  - {native: xtal_fraction, value: 0.0}
+spatial:
+- name: ivory
+  native: ivory
+  description: []
+  output:
+  - {native: solid}
+---
