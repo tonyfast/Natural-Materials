@@ -16,5 +16,6 @@ spatial:
   description: []
   output:
   - {native: solid}
+  location: http://mined.gatech.edu/images/assets/nutshell/pecan.mat
 dict: natural-ct
 ---
