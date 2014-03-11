@@ -1,0 +1,19 @@
+---
+layout: dataset
+title: pecan
+description: []
+aggregate:
+- name: pecan
+  native: pecan
+  description: []
+  output:
+  - {native: solid_fraction, value: 0.909054288}
+  - {native: pore_fraction, value: 0.09094571200000001}
+  - {native: xtal_fraction, value: 0.010306552}
+spatial:
+- name: pecan
+  native: pecan
+  description: []
+  output:
+  - {native: solid}
+---
