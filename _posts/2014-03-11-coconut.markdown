@@ -13,9 +13,11 @@ aggregate:
 spatial:
 - name: coconut
   native: coconut
-  description: []
+  description: <a href="http://www.flickr.com/photos/tonyfast/sets/72157642205119144/"> Some visalizations of Coconut CT data. </a>
   output:
   - {native: solid}
+  viz:
+  - url: http://farm8.staticflickr.com/7309/13083447824_898c33fcbb_z_d.jpg
   location: http://mined.gatech.edu/images/assets/nutshell/coconut.mat
 dict: natural-ct
 ---
