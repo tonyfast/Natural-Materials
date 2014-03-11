@@ -1,9 +1,9 @@
 ## Getting Started:
-+ Start a New Project Folder
+* Start a New Project Folder
 Create a new folder to host your Matin project at.  Make this folder your current working
 directory in Matlab.
 
-+ Access the setup code called GitHubSetUp.m
+* Access the setup code called GitHubSetUp.m
 
 In the Matlab command line, type in the command 
 `urlwrite('https://raw.github.com/tonyfast/matin/setup/GitHubSetUp.m','GitHubSetUp.m');`
