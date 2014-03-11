@@ -1,0 +1,46 @@
+name: natural-ct
+description: []
+layout: dictionary
+aggregate:
+- group:
+  - name: DEFAULT
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: pore_fraction
+    native: pore_fraction
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: solid_fraction
+    native: solid_fraction
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: xtal_fraction
+    native: xtal_fraction
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+spatial:
+- group:
+  - name: DEFAULT
+    description: []
+    links:
+      url: []
+      name: []
+  - pretty: solid
+    native: solid
+    units: undefined
+    description: []
+    links:
+      url: []
+      name: []
+url: /2014/03/11/natural-ct.html
