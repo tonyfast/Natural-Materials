@@ -13,8 +13,9 @@ aggregate:
 spatial:
 - name: coconut
   native: coconut
-  description: Some visualizations of this dataset can be found on flickr http://www.flickr.com/photos/tonyfast/sets/72157642203874925/.
+  description: []
   output:
   - {native: solid}
+  location: http://mined.gatech.edu/images/assets/nutshell/coconut.mat
 dict: natural-ct
 ---
