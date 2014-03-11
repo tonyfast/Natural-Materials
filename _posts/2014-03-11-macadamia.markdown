@@ -13,9 +13,12 @@ aggregate:
 spatial:
 - name: macadamia
   native: macadamia
-  description: []
+  description: <a href="http://www.flickr.com/photos/tonyfast/sets/72157642203778925/">Some visualizations of the Macadamia Nut CT data</a>
   output:
   - {native: solid}
   location: http://mined.gatech.edu/images/assets/nutshell/macadamia.mat
+  viz:
+  - url: http://www.flickr.com/photos/tonyfast/13084284213/in/set-72157642203778925
+    title:
 dict: natural-ct
 ---
