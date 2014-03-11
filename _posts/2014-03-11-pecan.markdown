@@ -10,15 +10,16 @@ aggregate:
   - {native: solid_fraction, value: 0.909054288}
   - {native: pore_fraction, value: 0.09094571200000001}
   - {native: xtal_fraction, value: 0.010306552}
-  viz:
-  - url: http://farm8.staticflickr.com/7402/13084516234_0bf598bf50_z_d.jpg
-    name: 
+  
 spatial:
 - name: pecan
   native: pecan
   description: []
   output:
   - {native: solid}
+  viz:
+  - url: http://farm8.staticflickr.com/7402/13084516234_0bf598bf50_z_d.jpg
+    name: 
   location: http://mined.gatech.edu/images/assets/nutshell/pecan.mat
 dict: natural-ct
 ---
