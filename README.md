@@ -8,7 +8,7 @@ directory in Matlab.
 In the Matlab command line, type in the command 
 `urlwrite('https://raw.github.com/tonyfast/matin/setup/GitHubSetUp.m','GitHubSetUp.m');`
 
-This command will down a setup code from Tony Fast's GitHub page.  The command will
+This command will down a setup code from [Tony Fast's GitHub](www.github.com/tonyfast).  The command will
   + Fork the current working version of Matin
   + Initialize both the master and gh-pages branches of your new working directory
   + Connect Matin as a upstream branch that will be constantly be updated to improve you webpages.
@@ -21,12 +21,12 @@ This command will down a setup code from Tony Fast's GitHub page.  The command w
 
 4. Run GitHub setup
 Execute the commands 
-`
+``
 reponame = 'https://github.com/youname/repo.git'; % is the link you copied in the previous step
 issudo = true; % use this flag if you require sudo privileges 
 issudo = false; % use this flag if you require don't require sudo privileges (Default)
 GitHubSetUp( reponame, issudo );
-`
+``
 This will perform each of the step in 2.
 
 5. Run InitializeTemplate.m
@@ -47,3 +47,15 @@ Flickr gives you a 1TB of space for free.  Flickr has a seamless API that works 
    2. Flickr - DUH
    3. Bokeh - http://bokeh.pydata.org/
 * Both data and metadata are preserved by a versioning system that constantly tracks the updates and changes your data, visualization, and digital data discussions.
+
+### Two Branches
+[Github](https://help.github.com/articles/branching-out#branches) describes branches nicely.
+
+#### master branch
+Your work will mostly live here.  The master branch is intended to behave as any other master branch.  The master branch on your local machine will contain a few api functions that shift files too and from your master branch.
+
+#### gh-pages branch
+Github is cool right?  If you make a branch called `gh-pages` then the files in that branch work as a web server.  Cool right?  Well even better they have this thing called [Jekyll](jekyllrb.com) that makes really nice static webpages from machine readable files.
+
+### What Matin does
+Matin operates off of the belief that structuring data needs to begin at the source.  Matin requires a certain data structures to use its utilities.  From there it becomes very easy to share local information to interactive public facing webpages.  Matin operates by shifting around important metadata from your `master` branch to your `gh-pages` branch.  You, The User, gets to choose what the world sees and what they don't.  Also, having all of this in a versioning system is a really great way to conduct research.
