@@ -16,7 +16,7 @@ spatial:
   description: <a href="http://www.flickr.com/photos/tonyfast/sets/72157642203778925/">Some visualizations of the Macadamia Nut CT data</a>
   output:
   - {native: solid}
-  location: http://mined.gatech.edu/images/assets/nutshell/macadamia.mat
+  location: 
   viz:
   - url: http://farm8.staticflickr.com/7387/13084284213_0644030042_z_d.jpg
     title:
