@@ -13,7 +13,7 @@ aggregate:
 spatial:
 - name: hazelnut
   native: hazelnut
-  description: <a href="http://www.flickr.com/photos/tonyfast/sets/72157642205632333/">Some visualizations of the CT can be found on flickr.</a>
+  description: You can change this description and <a href="http://www.flickr.com/photos/tonyfast/sets/72157642205632333/">Some visualizations of the CT can be found on flickr.</a>
   output:
   - {native: solid}
   viz:
