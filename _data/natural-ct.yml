@@ -3,26 +3,26 @@ description: []
 layout: dictionary
 aggregate:
 - group:
-  - name: DEFAULT
-    description: []
+  - name: Component Fractions 
+    description: The fractions of solid, pore, and crystall in each datum.
     links:
       url: []
       name: []
-  - pretty: pore_fraction
+  - pretty: Pore
     native: pore_fraction
     units: undefined
     description: []
     links:
       url: []
       name: []
-  - pretty: solid_fraction
+  - pretty: Solid
     native: solid_fraction
     units: undefined
     description: []
     links:
       url: []
       name: []
-  - pretty: xtal_fraction
+  - pretty: Crystal
     native: xtal_fraction
     units: undefined
     description: []
@@ -36,10 +36,10 @@ spatial:
     links:
       url: []
       name: []
-  - pretty: solid
+  - pretty: Phase
     native: solid
     units: undefined
-    description: []
+    description: The phase content of each component.  0 is a pore, 1 is a solid, and 2 is a crystal.
     links:
       url: []
       name: []
